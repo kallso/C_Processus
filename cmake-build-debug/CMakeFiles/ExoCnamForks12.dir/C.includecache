@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/costes_exo12.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+errno.h
+-
+

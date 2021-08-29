@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/calcul.dir/calcul.c.o -o calcul 

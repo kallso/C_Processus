@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ExoCnamForks8.dir/costes_exo8.c.o -o ExoCnamForks8 

@@ -1,0 +1,16 @@
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/calcul.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks1.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks2.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks6.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks3.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks4.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks7.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks5.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks8.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks9.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks11.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks10.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExoCnamForks/cmake-build-debug/CMakeFiles/ExoCnamForks12.dir

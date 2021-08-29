@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ExoCnamForks6.dir/costes_exo6.c.o -o ExoCnamForks6 
